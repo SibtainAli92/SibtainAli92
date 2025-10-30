@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sibtain Ali</h1>
 <h3 align="center">Full Stack Developer | AI-driven Solutions | Tech Explorer 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1E90FF&duration=2000&pause=1000&center=true&width=500&lines=AI+%26+Full+Stack+Developer;Generative+AI+Developer;Next.js+%26+Tailwind+Expert;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
