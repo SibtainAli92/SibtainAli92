@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javed Ali</h1>
+<h1 align="center">Hi 👋, I'm Sibtain Ali</h1>
 <h3 align="center">Full Stack Developer | AI-driven Solutions | Tech Explorer 🚀</h3>
 
 ---
