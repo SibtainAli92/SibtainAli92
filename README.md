@@ -8,7 +8,7 @@
 - 🎯 Skilled in developing **dynamic e-commerce platforms**  
 - 🧠 Strong foundation in **Next.js, TypeScript, Sanity, Python & AI**  
 - 🤝 Love collaborating on creative tech projects & problem-solving  
-- 🔗 Portfolio: **[https://your-portfolio-link-here.com](https://my-portfolio-chi-sandy-82.vercel.app/)**  
+- 🔗 Portfolio: **[My_Portfolio](https://my-portfolio-chi-sandy-82.vercel.app/)**  
 - 📫 Reach me at: **sibtainali.data.pro@gmail.com**  
 
 ---
